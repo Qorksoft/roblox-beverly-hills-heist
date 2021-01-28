@@ -1,3 +1,10 @@
+# Project place file
+/beverly-hills-heist.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
 # Compiled Lua sources
 luac.out
 
